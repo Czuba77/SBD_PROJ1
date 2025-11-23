@@ -1,0 +1,6 @@
+﻿  BufferClass.cpp
+  MainClass.cpp
+C:\Users\czuba\source\repos\SBD_proj1\SBD_proj1\MainClass.cpp(333,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SBD_proj1.cpp
+  Generating Code...
+  SBD_proj1.vcxproj -> C:\Users\czuba\source\repos\SBD_proj1\x64\Debug\SBD_proj1.exe
